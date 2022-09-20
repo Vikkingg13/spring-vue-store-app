@@ -1,6 +1,6 @@
 ## Spring Vue Web Application
 
-### **Car parts Store - Admin panel.**
+### **Auto Parts Store - Admin panel.**
 
 The application has two models: ***Product*** and ***Order***. Many-to-Many relationship.
 
